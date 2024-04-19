@@ -15,7 +15,11 @@ updates:
         update-types:
           - "version-update:semver-major"
           - "version-update:semver-minor"
-      - dependency-name: "spring-cloud-starter-open-service-broker"
+      - dependency-name: "org.springframework.cloud:spring-cloud-starter-open-service-broker"
+        update-types:
+          - "version-update:semver-major"
+          - "version-update:semver-minor"
+      - dependency-name: "org.springframework.cloud:spring-cloud-open-service-broker-core"
         update-types:
           - "version-update:semver-major"
           - "version-update:semver-minor"
@@ -35,7 +39,11 @@ updates:
         update-types:
           - "version-update:semver-major"
           - "version-update:semver-minor"
-      - dependency-name: "spring-cloud-starter-open-service-broker"
+      - dependency-name: "org.springframework.cloud:spring-cloud-starter-open-service-broker"
+        update-types:
+          - "version-update:semver-major"
+          - "version-update:semver-minor"
+      - dependency-name: "org.springframework.cloud:spring-cloud-open-service-broker-core"
         update-types:
           - "version-update:semver-major"
           - "version-update:semver-minor"
@@ -55,7 +63,11 @@ updates:
         update-types:
           - "version-update:semver-major"
           - "version-update:semver-minor"
-      - dependency-name: "spring-cloud-starter-open-service-broker"
+      - dependency-name: "org.springframework.cloud:spring-cloud-starter-open-service-broker"
+        update-types:
+          - "version-update:semver-major"
+          - "version-update:semver-minor"
+      - dependency-name: "org.springframework.cloud:spring-cloud-open-service-broker-core"
         update-types:
           - "version-update:semver-major"
           - "version-update:semver-minor"
@@ -75,7 +87,11 @@ updates:
         update-types:
           - "version-update:semver-major"
           - "version-update:semver-minor"
-      - dependency-name: "spring-cloud-starter-open-service-broker"
+      - dependency-name: "org.springframework.cloud:spring-cloud-starter-open-service-broker"
+        update-types:
+          - "version-update:semver-major"
+          - "version-update:semver-minor"
+      - dependency-name: "org.springframework.cloud:spring-cloud-open-service-broker-core"
         update-types:
           - "version-update:semver-major"
           - "version-update:semver-minor"
@@ -99,7 +115,11 @@ updates:
         update-types:
           - "version-update:semver-major"
           - "version-update:semver-minor"
-      - dependency-name: "spring-cloud-starter-open-service-broker"
+      - dependency-name: "org.springframework.cloud:spring-cloud-starter-open-service-broker"
+        update-types:
+          - "version-update:semver-major"
+          - "version-update:semver-minor"
+      - dependency-name: "org.springframework.cloud:spring-cloud-open-service-broker-core"
         update-types:
           - "version-update:semver-major"
           - "version-update:semver-minor"
