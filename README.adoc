@@ -64,6 +64,8 @@ Join us in our gitter channel: https://gitter.im/spring-cloud-app-broker/communi
 * https://spring.io/projects/spring-cloud-open-service-broker/[Spring Cloud Open Service Broker] 3.6.x
 * https://github.com/openservicebrokerapi/servicebroker/tree/v2.16/[Open Service Broker API] 2.16
 
+=== End-of-Support
+
 ==== 1.5.x
 
 * https://projects.spring.io/spring-framework/[Spring Framework] 5.3.x
@@ -72,8 +74,6 @@ Join us in our gitter channel: https://gitter.im/spring-cloud-app-broker/communi
 * https://github.com/reactor/[Reactor] 3.4.x
 * https://spring.io/projects/spring-cloud-open-service-broker/[Spring Cloud Open Service Broker] 3.5.x
 * https://github.com/openservicebrokerapi/servicebroker/tree/v2.16/[Open Service Broker API] 2.16
-
-=== End-of-Support
 
 ==== 1.4.x
 
